@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-plt.style.use('seaborn')
 
 
 st.title('World Cites')
